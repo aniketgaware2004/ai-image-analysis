@@ -8,7 +8,7 @@ An end-to-end automated quality inspection system using **YOLOv8**, **Python**, 
 
 ## 📸 Demo
 
-![System Demo](media/finaldemo.gif)  
+https://github.com/user-attachments/assets/f417852a-3136-4c64-9433-9ef895e46d57
 > *(Defected Product (Gear) detection and automatic ejection demonstration)*
 
 ---
